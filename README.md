@@ -1,1 +1,1 @@
-# x3rz-blackeye
+blackeye.sh
